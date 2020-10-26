@@ -1,0 +1,7 @@
+{
+  "name": "ionic-hybrid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
